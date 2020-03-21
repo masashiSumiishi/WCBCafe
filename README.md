@@ -1,2 +1,3 @@
 # WCBCafe
-1日で全て身につくHTML&CSS
+1日で全て身につくHTML&CSSの模写
+
